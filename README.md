@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Locatelli   
+- prénom : Enzo
+- URL Netlify : https://classy-taiyaki-b50b1b.netlify.app
 
 # Travail
 
